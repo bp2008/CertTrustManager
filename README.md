@@ -14,7 +14,7 @@ A simple Windows program which can hold an embedded SSL/TLS certificate (.cer fi
 
 ### Distribute the trust manager with embedded certificate.
 
-People can instruct their Windows systems to trust your certificate simply by running the exe you gave them, and clicking "Trust Certificate".  When the certificate is trusted, the "Trust" button changes to "Untrust Certificate" so trust can be easily revoked.
+People can instruct their Windows systems to trust your certificate simply by running the exe you gave them, and clicking `Trust Certificate`.  When the certificate is trusted, the `Trust Certificate` button changes to `Untrust Certificate` so trust can be easily revoked.
 
 ### Command-line usage
 
