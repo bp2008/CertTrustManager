@@ -4,7 +4,7 @@ A simple Windows program which can hold an embedded SSL/TLS certificate (.cer fi
 ## Usage
 
 ### First, embed a certificate
-1. Download from [the releases section](https://github.com/bp2008/CertTrustManager/releases).  
+1. Download from [the releases section](https://github.com/bp2008/CertTrustManager/releases) and extract somewhere.
 2. Run `CertTrustManager.exe`. Because we're dealing with certificate trust, administrator permission is required. 
 ![Screenshot](https://i.imgur.com/XMlGq3V.png)  
 3. Right-click anywhere in the body of the panel, then click the button in the context menu to browse for a `.cer` file to embed.  
